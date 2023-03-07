@@ -14,3 +14,4 @@ print(n)
 
 x = lambda a,m : a*m
 print(x(a,3))
+ABC
